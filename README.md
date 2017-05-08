@@ -4,7 +4,7 @@ A simple anagram game app that asks the user to make anagrams of words provided.
 
 ### Screenshots of the Word Scramble App
 
-![](AppScreenShots/WebView.png)
+![](AppScreenShots/MainScreen.png)
 
                          Above: Screenshot of the "Main" screen of the Word Scramble app
 
